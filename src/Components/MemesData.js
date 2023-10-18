@@ -15,8 +15,8 @@ export default{
                 "id" : "87743020",
                 "name" : "Two Buttons",
                 "url" : "https://i.imgflip.com/4/9ehk.jpg",
-                "width" : 600,
-                "height" : 908,
+                "width" : 1200,
+                "height" : 1200,
                 "box_count" : 3
             },
     
@@ -24,8 +24,8 @@ export default{
                 "id" : "112126428",
                 "name" : "Mona Lisa",
                 "url" : "https://i.imgflip.com/4/261o3j.jpg",
-                "width" : 600,
-                "height" : 908,
+                "width" : 1200,
+                "height" : 1200,
                 "box_count" : 2
             },
     
@@ -33,8 +33,8 @@ export default{
                 "id" : 4,
                 "name" : "Kanye West",
                 "url" : "https://i.imgflip.com/4/3lmzyx.jpg",
-                "width" : 600,
-                "height" : 908,
+                "width" : 1200,
+                "height" : 1200,
                 "box_count" : 3
             }
         ]

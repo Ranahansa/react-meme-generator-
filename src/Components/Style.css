@@ -60,7 +60,9 @@ h2{
 }
 
 .meme-image{
-    max-width: 100%;
+    width: 700px;
+    height: 700px;
     border-radius: 3px;
-    align-items: center;
+    margin-top: 100px;
+    margin-left: 300px;
 }
