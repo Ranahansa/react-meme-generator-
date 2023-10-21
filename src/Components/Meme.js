@@ -2,9 +2,16 @@ import React from 'react';
 import './Style.css';
 import MemesData from './MemesData';
 
+/**
+ * Component for displaying memes.
+ */
 export default function Meme() { 
     const [memeImage, setMemeImage] = React.useState("");
 
+    /**
+     * Function to get a random meme image from the MemesData array.
+     * @param {Event} event - The event object.
+     */
     function getMemeImage(event) {
         event.preventDefault();
         const memesArray = MemesData.data.memes;
