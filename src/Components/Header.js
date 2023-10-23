@@ -19,4 +19,4 @@ export default function Header() {
             <h3>Generate your own meme</h3>
         </div>
     )
-} 
+}  
